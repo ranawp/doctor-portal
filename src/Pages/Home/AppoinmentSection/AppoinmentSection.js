@@ -15,7 +15,6 @@ const AppoinmentSection = () => {
                 <h2 className='text-white'>Make an appoinment Today</h2>
                 <p className='text-white'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint illum ipsum tenetur, consequatur omnis minima nihil ipsa nisi nam numquam? Ullam provident voluptates error libero dignissimos vel perspiciatis minima? Officiis.</p>
                 <PrimaryButton>Get Started</PrimaryButton>
-
             </div>
         </section>
     );
