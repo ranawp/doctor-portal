@@ -10,11 +10,11 @@ const AppoinmentSection = () => {
             <div className='flex-1 hidden lg:block'>
                 <img className='mt-[-50px]' src={doctors} alt="" />
             </div>
-            <div className='flex-1 '>
+            <div className='flex-1 p-6'>
                 <h3 className='text-xl text-primary'>Appoinment</h3>
                 <h2 className='text-white'>Make an appoinment Today</h2>
-                <p className='text-white'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint illum ipsum tenetur, consequatur omnis minima nihil ipsa nisi nam numquam? Ullam provident voluptates error libero dignissimos vel perspiciatis minima? Officiis.</p>
-                <PrimaryButton>Get Started</PrimaryButton>
+                <p className='text-white my-2'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint illum ipsum tenetur, consequatur omnis minima nihil ipsa nisi nam numquam? Ullam provident voluptates error libero dignissimos vel perspiciatis minima? Officiis.</p>
+                <PrimaryButton >Get Started</PrimaryButton>
             </div>
         </section>
     );

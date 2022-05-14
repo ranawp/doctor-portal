@@ -2,7 +2,7 @@ import React from 'react';
 
 const ReviewCart = ({ review }) => {
     return (
-        <div className="card w-96 bg-base-100 shadow-xl">
+        <div className="card gap-3 bg-base-100 shadow-xl">
             <div className="card-body">
 
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque aperiam cum omnis repellat. Nostrum, saepe.</p>

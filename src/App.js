@@ -18,7 +18,7 @@ function App() {
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/appoinment' element={<Appoinment></Appoinment>}></Route>
       </Routes>
-      <Footer></Footer>
+      {/* <Footer></Footer> */}
 
 
     </div>
